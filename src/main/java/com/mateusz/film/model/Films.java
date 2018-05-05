@@ -20,7 +20,7 @@ public class Films {
 	private String director;
 	@Column(name = "genre")
 	private String genre;
-
+	
 	public Integer getId() {
 		return id;
 	}
